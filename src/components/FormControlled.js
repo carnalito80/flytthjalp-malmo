@@ -105,8 +105,7 @@ class Form extends Component {
         }}
         action={this.state.action}
         onSubmit={this.handleSubmit}
-        data-netlify=''
-        data-netlify-honeypot='_gotcha'
+      
       >
         {this.state.alert && (
           <div className='Form--Alert'>{this.state.alert}</div>

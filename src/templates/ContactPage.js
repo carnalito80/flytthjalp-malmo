@@ -4,11 +4,7 @@ import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
 import FormSimple from '../components/FormSimpleAjax'
-//import FormSimple from '../components/FormControlled'
-
-// import FormSimple from '../components/FormSimple'
 import Content from '../components/Content'
-//import GoogleMap from '../components/GoogleMap'
 import Layout from '../components/Layout'
 import './ContactPage.css'
 
