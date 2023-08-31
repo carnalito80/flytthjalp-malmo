@@ -50,7 +50,7 @@
   "main": "n/a",
   "scripts": {
     "start": "npm run clean && npm run develop",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
+    "build": "export SET NODE_OPTIONS=--openssl-legacy-provider && gatsby build",
     "develop": "SET NODE_OPTIONS=--openssl-legacy-provider && gatsby develop",
     "clean": "rm -rf .cache public",
     "serve": "gatsby serve",
