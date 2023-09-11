@@ -3,7 +3,7 @@ template: HomePage
 slug: om
 title: Om oss
 offertknapp: "Kontakta oss"
-featuredImage: '../images/flyttfirman_malmo.jpg'
+featuredImage: '../images/vara_tjanster.jpg'
 subtitle: 
 meta:
   description: Om oss.

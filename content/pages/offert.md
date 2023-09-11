@@ -2,7 +2,7 @@
 template: ContactPage
 slug: offert
 title: Begär offert
-featuredImage: '../images/flyttfirman_malmo_32.jpg'
+featuredImage: '../images/kontakt.webp'
 subtitle: Kontakta oss enkelt via formuläret nedan, så får du svar så snart som möjligt.
 address: 'Lönngatan 60, Malmö'
 phone: 073 637 99 08

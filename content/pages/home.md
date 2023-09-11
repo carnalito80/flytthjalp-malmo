@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 offertknapp: 'Begär offert'
 title: Flyttfirman Malmö
-featuredImage: './images/flyttfirman_malmo_2.jpg'
+featuredImage: './images/flyttfirman_malmo3.jpg'
 subtitle: 'Flyttfirman Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss för gratis offert idag! Kontakta oss via vårt formulär, telefon eller mail'
 meta:
 description: 'Flyttfirman Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss via vårt formulär, telefon eller mail'

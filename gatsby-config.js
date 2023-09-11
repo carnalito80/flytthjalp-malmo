@@ -2,8 +2,8 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'xn--mlaremalm-52a9q.nu',
-    siteUrl: 'https://xn--mlaremalm-52a9q.nu'
+    title: 'www.xn--flyttfirman-malm-1wb.se',
+    siteUrl: 'https://www.xn--flyttfirman-malm-1wb.se/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'målaremalmo.nu',
-        short_name: 'målaremalmo.nu',
+        name: 'www.xn--flyttfirman-malm-1wb.se',
+        short_name: 'www.xn--flyttfirman-malm-1wb.se',
         start_url: '/',
         background_color: '#5cb85c',
         theme_color: '#5cb85c',

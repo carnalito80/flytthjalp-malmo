@@ -2,7 +2,7 @@
 template: HomePage
 slug: vara-tjanster
 title: Våra Tjänster
-featuredImage: '../images/flyttfirman_malmo_32.jpg'
+featuredImage: '../images/vara_tjanster.jpg'
 offertknapp: 'Begär offert'
 subtitle: Information om våra tjänster.
 meta:
