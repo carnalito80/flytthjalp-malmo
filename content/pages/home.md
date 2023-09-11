@@ -26,7 +26,7 @@ ordentligt jobb från första början. Du kan lita på oss i alla typer av proje
 
 ### Vad kostar det att anlita Flyttfirman Malmö?
 
-Varje uppdrag prissätts efter omfattning. Först när ni skickat in en offertförfrågan kan vi börja titta på hur priset kommer att sättas och hur stort och tidskrävande projektet är. Vi erbjuder också att göra en analys ihop med er för att klargöra vilken typ av måleriarbete ni har behov av - om ni inte riktigt är säkra på vilken typ av måleriarbete som är lämpligast för er. Vi kan ge er förslag och bolla ideér tillsammans.
+Varje uppdrag prissätts efter omfattning. Först när ni skickat in en offertförfrågan kan vi börja titta på hur priset kommer att sättas och hur stort och tidskrävande projektet är. Vi erbjuder också att göra en analys ihop med er för att klargöra vilken typ av måleriarbete ni har behov av - om ni inte riktigt är säkra på vilken typ av måleriarbete som är lämpligast för er. Vi kan ge er förslag och bolla ideér tillsammans. Läs mer om faktorer som påverkar priset här; [flytthjälp malmö priser](/priser).
 
 Vi har F-skattsedel och det går även bra att nyttja ROT-avdraget när du anlitar oss som flytthjälp i Malmö. Med detta avdrag innebär det att kostnaden blir mindre. ROT-avdraget ger tillbaka 30 % på arbetskostnaderna, upp till 50 000 kr per person och år. Detta avdrag ges tillbaka i form av skattereduktion. Lär mer om ROT-avdrag hos [Skatteverket](https://www.skatteverket.se/foretag/skatterochavdrag/rotochrut/gerarbetetratttillrotavdrag.4.5c1163881590be297b5173bf.html)
 
