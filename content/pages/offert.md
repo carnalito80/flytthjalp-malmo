@@ -12,11 +12,11 @@ locations:
     lng: '12.41'
     mapLink: ''
 meta:
-  description: Begär en kostnadsfri offert från oss!
-  title: Boka en kostnadsfri besiktning
+  description: Kontakta oss för ett kostnadsfritt offerförslag
+  title: Kontakt för kostnadsfri offert
 ---
 
-#   Boka en kostnadsfri besiktning
+#   Kontakta oss för ett kostnadsfritt offertförslag
 
 
 

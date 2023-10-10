@@ -11,12 +11,12 @@ meta:
 ---
 
 ### Flytthjälp till privatpersoner
-Vi erbjuder olika typer av flytthjälp, allt från att transportera enstaka möbler till att flytta ett helt hem. Vill man flytta ett helt hem erbjuder står vi för material och kartonger. Vi kan paketera allt och sedan flytta det till ny adress. Vi kan även hjälpa till med att flytta saker för magasinering eller till återvinningscentral.  
+Vi erbjuder olika typer av flytthjälp, allt från att transportera enstaka möbler till att flytta ett helt bohag. Vill man flytta ett helt hem erbjuder står vi för material och kartonger. Vi kan paketera allt och sedan flytta det till ny adress. Vi kan även hjälpa till med att flytta saker för magasinering eller till återvinningscentral.  
 
 Som privatperson är det möjligt att använda sig av rut-avdrag eftersom det ses som en hushållsnära tjänst och är avdragsgillt.  
 
-### Företagsflytt
-Vi erbjuder även flytthjälp för företag som ska byta lokaler eller bara flytta runt i samma lokaler. Vi kan hjälpa er planera flytten, ner och uppmontering av möbler samt att paketera och transportera.  
+### Kontorsflytt
+Vi erbjuder även flytthjälp för företag som ska byta lokaler eller bara flytta runt i samma lokaler. Vi kan hjälpa er planera flytten, ner och uppmontering av möbler samt att paketera och transportera. Det kräver dock ofta lite mer planering och koordination när ett företag ska flytta. 
 
 ### Paketering
 Vid en flytt är det viktigt att packa så bra som möjligt så att allt kommer med och är helt när det kommer fram . Vi erbjuder att montera ner och skyddspacka stora möbler och vi kan också hjälpa till med nedpackning av köksporslin. Det är viktigt att vi vet om i förhand att ni vill att vi ska komma och packa ihop detta.  

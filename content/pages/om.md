@@ -10,8 +10,10 @@ meta:
   title: 
 
 ---
-Vi på Flytthjälp Malmö har en bred kompetens inom målning med erfarna flyttare och anlitas gärna för de flesta uppdrag. Du kan anlita oss både som företag eller privatperson. Vi utför arbeten både inomhus och utvändigt, både små och stora projekt. Vårt mål är att du som kund känner att vi åtar oss det uppdrag du ger oss, att du är delaktig och trygg i besluten och under arbetets gång. När arbetet är färdigt vill vi att du ska känna dig tillfreds och nöjd med resultatet. 
-Kontakta oss om du vill veta mer eller skicka en offertförfrågan på det projekt du har. 
+Vi på Flytthjälp Malmö erbjuder en komplett flyttservice till privatpersoner och företag.  Vi utför vårat arbete med kvalitet, ansvar och helhetstänk. Våra team har en god sammanhållning och arbetar utmärkt ihop. Alla våra anställda har en bred kompetens och erfarenhet inom flytt, flyttstäd eller liknande arbete. 
+
+Alla våra flyttar börjar med en god planering med hjälp av dig, det resulterar i en välgenomtänkt flyttplan som vi presenterar för dig tillsammans med ett prisförslag. Vi vill att våra kunder är delaktiga och känner sig trygga i besluten. Vår ambition är att kunden ska vara nöjd till 100%.
+Kontakta oss om du vill veta mer eller skicka en offertförfrågan till oss. 
 
 
-Kontakta oss via [formuläret](/offert) idag!
+Kontakta oss för [gratis offert](/offert) idag!
