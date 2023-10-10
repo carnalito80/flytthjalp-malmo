@@ -16,7 +16,7 @@ Har du nyligen flyttat eller planerar att flytta? Det kan vara en tidskrävande 
 
 Vi ger dig en professionell och grundlig flyttningstjänst som är anpassad efter dina specifika behov. Vi är experter på att hantera flyttar och kommer att se till att allt går smidigt och stressfritt. Vi tar hand om alla detaljer, från att packa och lasta din egendom till att transportera den och lossa den på den nya platsen.  
 
-Vi kan lång ut flyttkartonger under 4 veckor till våra kunder och även hjälpa till att packa ditt bohag. Vi strävar efter att ge dig den bästa upplevelsen genom att använda högkvalitativa produkter och tjänster som är säkra, pålitliga och miljövänliga. Alla våra flyttar är försäkrade, så du kan vara säker på att din flytt kommer att gå som planerat. Vi erbjuder också förmånliga priser och flexibla betalningsalternativ, så att du kan få det bästa värdet för pengarna. Så skulle du vilja ha en smidig, säker och billig flytt? Kontakta oss redan idag och låt oss hjälpa dig att få ditt hem flyttat!
+Vi kan låna ut flyttkartonger upp till 4 veckor till våra kunder och även hjälpa till att packa ditt bohag. Vi strävar efter att ge dig den bästa upplevelsen genom att använda högkvalitativa produkter och tjänster som är säkra, pålitliga och miljövänliga. Alla våra flyttar är försäkrade, så du kan vara säker på att din flytt kommer att gå som planerat. Vi erbjuder också förmånliga priser och flexibla betalningsalternativ, så att du kan få det bästa värdet för pengarna. Så skulle du vilja ha en smidig, säker och billig flytt? Kontakta oss redan idag och låt oss hjälpa dig att få ditt hem flyttat!
 
 ## Därför ska du anlita oss på Flyttfirman Malmö
  
