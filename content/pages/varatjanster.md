@@ -33,11 +33,8 @@ Vi kan också erbjuda våra kunder flyttstädning när flytten väl är avklarad
 ### Flyttips
 När man ska flytta är det bra att börja i god tid för att hinna med att förbereda en del saker. Det första man bör börja med att gå igenom allt och sortera bort sådant som man inte längre behöver. Ha olika högar för olika saker t ex en hög för det som ska slängas, en för återvinning (second hand, loppis), en ge bort hög.  
 
-Det är guld värt att markera alla flyttkartonger med vad det är så att dom hamnar i rätt rum i det nya boendet. Det kommer vara så mycket smidigare när man ska packa upp att allt är på rätt ställen. Man kan märka dom som man tycker funkar bäst, bara skriva vart dom ska eller vad som innehåller eller något annat som passar bättre.  
+Det är guld värt att markera alla flyttkartonger med vad det är så att dom hamnar i rätt rum i det nya boendet. Det kommer vara så mycket smidigare när man ska packa upp att allt är på rätt ställen. Man kan märka dom som man tycker funkar bäst, bara skriva vart dom ska eller vad dom innehåller eller något annat som passar bra.  
 
-### Fler flyttips
-
-### Adressändring
 Tänk på att ändra din adress i tid, det kan man göra på adressandring.se och man bör också göra en flyttanmälan hos https://www.skatteverket.se, elbolag, bank. En adressändring brukar normalt gälla i minst ett år. 
 
 

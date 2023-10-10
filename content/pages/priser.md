@@ -63,5 +63,5 @@ Packningens komplexitet och ömtålighet hos dina tillhörigheter kan påverka d
 Specialföremål som pianon, biljardbord eller ömtåliga antikviteter kräver extra försiktighet och kan medföra extra kostnader för säker transport. Flyttfirmor med expertis inom hantering av specialföremål kommer att ha den nödvändiga utrustningen och erfarenheten för att se till att dessa tillhörigheter når sin destination utan skador.
 
 Med våra erfarna flyttare får du proffsig hjälp med din flytt.
-Kontakta oss för[gratis offert](/offert) idag!
+Kontakta oss för [gratis offert](/offert) idag!
 
