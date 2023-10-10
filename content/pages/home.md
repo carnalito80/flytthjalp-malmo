@@ -30,5 +30,5 @@ Varje uppdrag prissätts efter omfattning. Först när ni skickat in en offertf�
 Vi har F-skattsedel och det går även bra att nyttja ROT-avdraget när du anlitar oss som flytthjälp i Malmö. Med detta avdrag innebär det att kostnaden blir mindre. ROT-avdraget ger tillbaka 30 % på arbetskostnaderna, upp till 50 000 kr per person och år. Detta avdrag ges tillbaka i form av skattereduktion. Lär mer om ROT-avdrag hos [Skatteverket](https://www.skatteverket.se/foretag/skatterochavdrag/rotochrut/gerarbetetratttillrotavdrag.4.5c1163881590be297b5173bf.html)
 
 Med våra erfarna flyttare får du proffsig hjälp med din flytt.
-Kontakta oss [formuläret](/offert) för offert.
+Kontakta oss för [gratis offert](/offert) idag!
 
