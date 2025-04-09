@@ -28,7 +28,7 @@ För allt annat som ska packas i kartonger bör man tänka på att använda flyt
 -	för mjuka saker som kuddar, täcken, kläder, mattor m m kan man använda t ex stora sopsäckar. 
 
 ### Flyttstädning
-Vi kan också erbjuda våra kunder flyttstädning när flytten väl är avklarad. Våra flyttstädningar är av hög kvalité och görs noggrant och grunderligt. Se mer på: 
+Vi kan också erbjuda våra kunder flyttstädning när flytten väl är avklarad. Våra flyttstädningar är av hög kvalité och görs noggrant och grunderligt. Se mer i våran del om [vilkor flyttstäd](vilkor-stad)
 
 ### Flyttips
 När man ska flytta är det bra att börja i god tid för att hinna med att förbereda en del saker. Det första man bör börja med att gå igenom allt och sortera bort sådant som man inte längre behöver. Ha olika högar för olika saker t ex en hög för det som ska slängas, en för återvinning (second hand, loppis), en ge bort hög.  
