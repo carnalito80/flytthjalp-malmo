@@ -24,7 +24,6 @@ export default class Meta extends Component {
       absoluteImageUrl = '',
       twitterSiteAccount,
       twitterCreatorAccount,
-      noindex,
       canonicalLink,
       siteTitle,
       siteDescription,

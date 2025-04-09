@@ -22,8 +22,8 @@ export const SinglePostTemplate = ({
       itemType="http://schema.org/BlogPosting"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/inspiration/">
-          <ChevronLeft /> TILLBAKA
+        <Link className="SinglePost--BackButton" to="/flyttguiden/">
+          <ChevronLeft /> TILLBAKA TILL FLYTTGUIDEN
         </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
@@ -36,21 +36,7 @@ export const SinglePostTemplate = ({
                 {date}
               </time>
             )}
-            {categories && (
-              <Fragment>
-                <span>|</span>
-                {categories.map((cat, index) => (
-                  <span
-                    key={cat.category}
-                    className="SinglePost--Meta--Category"
-                  >
-                    {/* {cat.category} */}
-                    {/* Add a comma on all but last category */}
-                    {/* {index !== categories.length - 1 ? ',' : ''} */}
-                  </span>
-                ))}
-              </Fragment>
-            )}
+          
           </div>
 
           {title && (
@@ -122,7 +108,7 @@ export const pageQuery = graphql`
         title
         template
         subtitle
-        date(formatString: "MMMM Do, YYYY")
+        date(formatString: "Do MMMM, YYYY", locale: "sv-SE")
         categories {
           category
         }
