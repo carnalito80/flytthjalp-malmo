@@ -5,7 +5,7 @@ status: Published
 date: '2025-04-22'
 categories:
   - category: Tips
-featuredImage: '../images/flyttlador.webp'
+featuredImage: '../images/packa_lador.webp'
 excerpt: >-
   Tips på hur du packar glas, porslin, tallrikar och vinglas inför flytt. Undvik skador med smart flyttpackning av kökssaker.
 meta:
@@ -15,7 +15,7 @@ meta:
 
 ![Packa lådor](/images/packa_lador.webp)
 
-<h1>Så packar du tallrikar, glas och porslin inför flytt – smarta tips</h1>
+Så packar du tallrikar, glas och porslin inför flytt – **smarta tips**
 
   <p>Att flytta innebär mycket att tänka på, och att <strong>packa glas inför flytt</strong> är en av de saker som kräver lite extra noggrannhet. Det är lätt att bara vilja få det gjort – men att slarva när du ska <strong>packa porslin</strong> kan leda till trasiga favorittallrikar och vinglas i spillror. Här får du våra bästa tips på hur du <strong>flyttpackar glas</strong>, tallrikar och annat ömtåligt, så att allt kommer fram helt och tryggt till ditt nya hem.</p>
 
