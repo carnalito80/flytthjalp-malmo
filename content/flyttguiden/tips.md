@@ -5,6 +5,7 @@ status: Published
 date: '2025-04-05'
 categories:
   - category: News
+  - category: Tips
 featuredImage: '../images/flyttlador.webp'
 excerpt: >-
   Här är är en berättelse från ev av våra kunder när vi hjälpte honom flytta till Lund.
