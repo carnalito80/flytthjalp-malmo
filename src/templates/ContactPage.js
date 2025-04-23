@@ -88,7 +88,6 @@ export const pageQuery = graphql`
         address
         phone
         email
-        meta
         locations {
           mapLink
           lat
