@@ -12,7 +12,7 @@ meta:
 
 ---
 
-## Flyttfirma Malmö - en professionell flyttfirma
+## Flyttfirma Malmö - professionell flytthjälp
 
 Har du nyligen flyttat eller planerar att flytta? Det kan vara en tidskrävande och stressig process. Vi på Flyttfirma Malmö är här för att hjälpa dig med din flytt! Vi är ett lokalt flyttföretag som har stor erfarenhet av flytthjälp, och vi gör vårat yttersta för att få ditt hem och dina saker flyttade snabbt, säkert och smidigt.  
 
