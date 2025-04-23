@@ -14,9 +14,10 @@ locations:
 meta:
   description: Kontakta oss för ett kostnadsfritt offerförslag
   title: Kontakt för kostnadsfri offert
+  canonicalLink: https://www.xn--flyttfirman-malm-1wb.se/offert
 ---
 
-#   Kontakta oss för ett kostnadsfritt offertförslag
+##   Kontakta oss för ett kostnadsfritt offertförslag
 
 
 

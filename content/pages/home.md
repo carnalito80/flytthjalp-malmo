@@ -6,11 +6,13 @@ title: Flyttfirma Malmö
 featuredImage: './images/flyttfirman_malmo3.webp'
 subtitle: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss för gratis offert idag! Kontakta oss via vårt formulär, telefon eller mail'
 meta:
-description: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss via vårt formulär, telefon eller mail'
+    description: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss via vårt formulär, telefon eller mail'
+    canonicalLink: https://www.xn--flyttfirman-malm-1wb.se/
+    title: Flyttfirma Malmö
 
 ---
 
-# Flyttfirma Malmö - en professionell flyttfirma
+## Flyttfirma Malmö - en professionell flyttfirma
 
 Har du nyligen flyttat eller planerar att flytta? Det kan vara en tidskrävande och stressig process. Vi på Flyttfirma Malmö är här för att hjälpa dig! Vi är ett lokalt flyttföretag som har stor erfarenhet av att hjälpa till att få ditt hem och dina saker flyttade snabbt, säkert och smidigt.  
 

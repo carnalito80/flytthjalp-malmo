@@ -6,8 +6,8 @@ offertknapp: "Kontakta oss"
 featuredImage: '../images/vara_tjanster.jpg'
 subtitle: 
 meta:
-  description: Om oss.
-  title: 
+  description: Om oss på flyttfirman malmö.
+  title: Om oss 
 
 ---
 Vi på Flytthjälp Malmö erbjuder en komplett flyttservice till privatpersoner och företag.  Vi utför vårat arbete med kvalitet, ansvar och helhetstänk. Våra team har en god sammanhållning och arbetar utmärkt ihop. Alla våra anställda har en bred kompetens och erfarenhet inom flytt, flyttstäd eller liknande arbete. 

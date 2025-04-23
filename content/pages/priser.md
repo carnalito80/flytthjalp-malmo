@@ -6,7 +6,7 @@ title: Flyttfirma Malmö
 featuredImage: '../images/priser.jpg'
 subtitle: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss för gratis offert idag! Kontakta oss via vårt formulär, telefon eller mail'
 meta:
-description: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss via vårt formulär, telefon eller mail'
+    description: 'Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! Kontakta oss via vårt formulär, telefon eller mail'
 
 ---
 
