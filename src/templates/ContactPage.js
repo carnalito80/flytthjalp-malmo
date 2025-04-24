@@ -32,7 +32,7 @@ export const ContactPageTemplate = ({
             {address && (
               <a
                 className="Contact--Details--Item"
-                href={`https://www.google.com.au/maps/search/${encodeURI(
+                href={`https://www.google.se/maps/search/${encodeURI(
                   address
                 )}`}
                 target="_blank"
@@ -48,7 +48,7 @@ export const ContactPageTemplate = ({
             )}
             {email && (
               <a className="Contact--Details--Item" href={`mailto:${email}`}>
-                <Mail /> {email}
+                <Mail /> info@flyttfirman-malmö.se
               </a>
             )}
           </div>

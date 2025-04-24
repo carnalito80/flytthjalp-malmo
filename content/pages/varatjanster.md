@@ -15,6 +15,8 @@ Vi erbjuder olika typer av flytthjälp, allt från att transportera enstaka möb
 
 Som privatperson är det möjligt att använda sig av rut-avdrag eftersom det ses som en hushållsnära tjänst och är avdragsgillt.  
 
+Läs mer om vår tjäst för [bohagsflytt](/vara-tjanster/bohagsflytt).
+
 ### Kontorsflytt
 Vi erbjuder även flytthjälp för företag som ska byta lokaler eller bara flytta runt i samma lokaler. Vi kan hjälpa er planera flytten, ner och uppmontering av möbler samt att paketera och transportera. Det kräver dock ofta lite mer planering och koordination när ett företag ska flytta. 
 
