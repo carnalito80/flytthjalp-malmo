@@ -21,7 +21,7 @@ export default () => (
         <a className="Contact--Details--Item" href="/vara-tjanster/">
           <Package />Våra tjänster
         </a>
-        <a className="Contact--Details--Item" href="/vara-tjanster/boagsflytt">
+        <a className="Contact--Details--Item" href="/vara-tjanster/bohagsflytt">
           <Package />Bohagsflytt
         </a>
       </div>
