@@ -38,6 +38,9 @@ export default () => (
         <a className="Contact--Details--Item" href="#">
           <Info /> Org nr 559241-9229
         </a>
+        <a className="Contact--Details--Item" href="/vara-tjanster/pianoflytt">
+          <Package />Pianoflytt
+        </a>
       </div>
        
 
