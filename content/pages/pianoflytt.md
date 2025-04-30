@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: vara-tjanster/pianoflytt
 title: Pianoflytt Malmö | Trygg och säker transport av piano och flygel
 featuredImage: '../../images/piano.webp'
@@ -39,6 +39,8 @@ meta:
       <li>Service med omtanke och respekt för ditt instrument</li>
     </ul>
   </section>
+
+  ![pianoflytt malmö flytthjälp](/images/pianoflytt2.webp)
 
   <section>
     <h3>Säkerhet är vår högsta prioritet</h3>

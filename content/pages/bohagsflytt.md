@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: vara-tjanster/bohagsflytt
 title: Bohagsflytt Malmö | Flytthjälp med kvalitet och trygghet
 featuredImage: '../../images/flytthjalp2.webp'

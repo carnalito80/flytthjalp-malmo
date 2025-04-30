@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: vilkor-flytt
 title: Våra vilkor
 featuredImage: '../images/flytthjalp2.webp'

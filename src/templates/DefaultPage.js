@@ -11,19 +11,21 @@ export const DefaultPageTemplate = ({
   title,
   subtitle,
   featuredImage,
+  offertknapp,
   body
 }) => (
   <main className="DefaultPage">
     <PageHeader
-      title={title}
-      subtitle={subtitle}
-      backgroundImage={featuredImage}
-    />
-
+        large
+        title={title}
+        subtitle={subtitle}
+        backgroundImage={featuredImage}
+        offertknapp={offertknapp}
+      />
     <section className="section">
       <div className="container">
         <Content source={body} />
-        <SVGIcon src="/images/calendar.svg" />
+        {/* <SVGIcon src="/images/calendar.svg" /> */}
       </div>
     </section>
   </main>
@@ -48,6 +50,7 @@ export const pageQuery = graphql`
         title
         subtitle
         featuredImage
+        offertknapp
       }
     }
   }

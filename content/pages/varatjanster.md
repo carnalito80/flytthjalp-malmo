@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: vara-tjanster
 title: Våra Tjänster
 featuredImage: '../images/vara_tjanster.jpg'

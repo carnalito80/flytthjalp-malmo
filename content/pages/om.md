@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: om
 title: Om oss
 offertknapp: "Kontakta oss"

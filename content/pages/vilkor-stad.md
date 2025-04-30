@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: vilkor-stad
 title: Våra städvilkor
 featuredImage: '../images/flytthjalp2.webp'

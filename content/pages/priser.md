@@ -1,5 +1,5 @@
 ---
-template: HomePage
+template: DefaultPage
 slug: 'priser'
 offertknapp: 'Begär offert'
 title: Flyttfirma Malmö
