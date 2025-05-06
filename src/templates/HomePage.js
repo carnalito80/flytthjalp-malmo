@@ -63,7 +63,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, offertknapp, 
       <Link to="/vilkor-stad/" className="PostCard">
         
         <div className="PostCard--ImageJK relative">
-          <img  src="/images/icon-1.png" alt="FLyttstäd" className="Content-Image"></img>
+          <img  src="/images/stadteam2_icon.webp" alt="FLyttstäd" className="Content-Image"></img>
           </div>
           
             <div className="PostCard--Content">
