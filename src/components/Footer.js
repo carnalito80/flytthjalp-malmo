@@ -9,11 +9,11 @@ export default () => (
     <section className="Contact--Section1">
       <div className="container Contact--Section1--Container">
       <div className="Contact--Details">
-         <a className="Contact--Details--Item" href="/vilkor-flytt/">
-          <Disc />Vilkor för flytthjälp
+         <a className="Contact--Details--Item" href="/villkor-flytt/">
+          <Disc />Villkor för flytthjälp
         </a>
-        <a className="Contact--Details--Item" href="/vilkor-stad/">
-          <Disc />Vilkor för flyttstäd
+        <a className="Contact--Details--Item" href="/villkor-stad/">
+          <Disc />Villkor för flyttstäd
         </a>
         <a className="Contact--Details--Item" href="/priser/">
           <CreditCard />Våra Priser

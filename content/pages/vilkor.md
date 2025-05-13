@@ -1,15 +1,15 @@
 ---
 template: DefaultPage
-slug: vilkor-flytt
-title: Våra vilkor
+slug: villkor-flytt
+title: Våra villkor
 featuredImage: '../images/flytthjalp2.webp'
 offertknapp: 'Begär offert idag!'
-subtitle: Information om våra vilkor.
+subtitle: Information om våra villkor.
 meta:
-  description:  Information om våra vilkor
-  title: Våra vilkor
+  description:  Information om våra villkor
+  title: Våra villkor
 ---
-## Almänna vilkor
+## Almänna villkor
 
 ### Arbetstider
 Våra flyttmedarbetare arbetar dagligen och behöver därför hålla raster och lunch för att kunna hålla ett bra tempo och säkerställa att du som kund blir nöjd. Du betalar självklart inte för våra raster. Vanligtvis tar våra medarbetare frukost och lunchrast, totalt 1 timme per dag (8 timmar). När medarbetarna lämnar vårt kontor börjar de jobba för dig, och när de återvänder till kontoret slutar de jobba för dig. Tiden räknas alltså från och till vårt kontor.
@@ -51,7 +51,7 @@ Välj oss och välj ett seriöst och professionellt flyttföretag som startades 
 #### Flyttkartonger
 Märk varje kartong på båda kortsidorna med märklappar som du köper av oss. Skriv eller tejpa aldrig på kartongerna. Vik ihop kartongerna och förvara dem i ett torrt utrymme innan återlämnande. All märkning måste avlägsnas innan återlämnande. Kartonger ska återlämnas senast 14 dagar efter utförd flyttning. Söndriga eller smutsiga kartonger debiteras.
 
-## Vilkor för packning och märkning
+## Villkor för packning och märkning
 
 ### Packning
 Använd äkta flyttkartonger… Banankartonger är bra för bananer.

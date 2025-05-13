@@ -60,7 +60,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, offertknapp, 
         <div className="PostCard--Excerpt"><em>I behov av bohagsflytt i Malmö? Här får du mer info.</em></div>
       </div>
       </Link>
-      <Link to="/vilkor-stad/" className="PostCard">
+      <Link to="/villkor-stad/" className="PostCard">
         
         <div className="PostCard--ImageJK relative">
           <img  src="/images/stadteam2_icon.webp" alt="FLyttstäd" className="Content-Image"></img>

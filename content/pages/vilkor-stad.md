@@ -1,15 +1,15 @@
 ---
 template: DefaultPage
-slug: vilkor-stad
-title: Våra städvilkor
+slug: villkor-stad
+title: Våra städvillkor
 featuredImage: '../images/flytthjalp2.webp'
 offertknapp: 'Begär offert idag!'
-subtitle: Vi hjälper gärna till med flyttstäd! Dessa vilkor gäller
+subtitle: Vi hjälper gärna till med flyttstäd! Dessa villkor gäller
 meta:
-  description:  Våra städvilkor
-  title: Vi hjälper gärna till med flyttstäd! Dessa vilkor gäller
+  description:  Våra städvillkor
+  title: Vi hjälper gärna till med flyttstäd! Dessa villkor gäller
 ---
-## Almänna vilkor
+## Almänna villkor
 
 ### Flyttstädning med garanti!
 

@@ -30,7 +30,7 @@ För allt annat som ska packas i kartonger bör man tänka på att använda flyt
 -	för mjuka saker som kuddar, täcken, kläder, mattor m m kan man använda t ex stora sopsäckar. 
 
 ### Flyttstädning
-Vi kan också erbjuda våra kunder flyttstädning när flytten väl är avklarad. Våra flyttstädningar är av hög kvalité och görs noggrant och grunderligt. Se mer i våran del om [vilkor flyttstäd](/vilkor-stad)
+Vi kan också erbjuda våra kunder flyttstädning när flytten väl är avklarad. Våra flyttstädningar är av hög kvalité och görs noggrant och grunderligt. Se mer i våran del om [villkor flyttstäd](/villkor-stad)
 
 ### Pianoflytt
 Vad gäller pianoflytt så har vi även erfarenheter av detta, lär mer under [pianoflytt malmö](/vara-tjanster/pianoflytt)
