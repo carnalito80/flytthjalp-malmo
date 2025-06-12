@@ -51,7 +51,7 @@ export default class Meta extends Component {
         <meta name="geo.placename" content="Malmö" />
         <meta name="geo.position" content="55.58219;13.02516" />
         <meta name="ICBM" content="55.58219, 13.02516" />
-
+        <meta name="google-site-verification" content="ssUI6WNShjDArTF5Oe_n9T_KqWh3qwDJQOxGj3XFYHA" />
         <script type="application/ld+json">{`
 
 {
@@ -61,8 +61,8 @@ export default class Meta extends Component {
     "@type": "WebPage",
     "@id": "https://www.xn--flyttfirman-malm-1wb.se/#",
     "url": "https://www.xn--flyttfirman-malm-1wb.se/",
-    "name": "Flyttstädning Göteborg - Fasta priser & Garanti",
-    "description": "Flyttfirma Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! ✔️ Kontakta oss för gratis offert idag! Kontakt oss via vårt formulär, telefon eller mail. ✔️",
+    "name": "Flyttfirman Malmö",
+    "description": "Flyttfirman Malmö hjälper dig flytta i Malmö och andrar delar av Skåne! ✔️ Kontakta oss för gratis offert idag! Kontakt oss via vårt formulär, telefon eller mail. ✔️",
     "inLanguage": "sv-SE"
     },
     {
